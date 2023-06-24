@@ -22,5 +22,4 @@ To change learning model, please edit `get_input_args.py` and change the `defaul
 
 If you want to test all 3 models. Please run `batch.sh` and put photos into `uploaded_images`. After finish, results will be stored in `alexnet_uploaded-images.txt`, `resnet_uploaded-images.txt` and `vgg_uploaded-images.txt` file of the according model
 
--- Nguyen Huynh
 
