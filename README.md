@@ -1,5 +1,5 @@
 # Dog-Breed-Identifier
-This is for a mandatory project of the Udacity Nanodagree program - course "Ai Programming with Python"
+
 
 This program can identify dog breeds on images.
 * -- Please put your dog images into `pet_images` folder
